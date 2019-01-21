@@ -25,14 +25,14 @@ public class MyUtils {
 			LOG.info("NULL");
 			return null;
 		} else {
-			LOG.info("NOT NULL. s = " +s);
+			LOG.info("NOT NULL. s = {}", s);
 			return s;
 		}
 	}
 
 	public List<Integer> filterEvenNumbers(List<Integer> integers) {
 		LOG.trace("Méthode filterEvenNumbers()");
-		List<Integer> evenNumbers = new ArrayList<Integer>();
+		List<Integer> evenNumbers = new ArrayList<>();
 		for (Integer i : integers) {
 			if (i % 2 == 0) {
 				evenNumbers.add(i);
@@ -43,11 +43,11 @@ public class MyUtils {
 
 	public List<Float> transformSquarePlusPointFive(List<Integer> integers) {
 		LOG.trace("Méthode transformSquarePlusPointFive()");
-		List<Float> squarePointFive = new ArrayList<Float>();
+		List<Float> squarePointFive = new ArrayList<>();
 		float f = 0;
 		for (int i : integers) {
 			f = (i * i) + 0.5f;
-			LOG.info("Index " +i+ " = "+f);
+			LOG.info("Index {} = {}", i, f);
 			squarePointFive.add(f);
 		}
 		return squarePointFive;
