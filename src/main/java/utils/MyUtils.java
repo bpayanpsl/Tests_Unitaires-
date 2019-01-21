@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 
 public class MyUtils {
 
-	private static Logger LOG = LoggerFactory.getLogger(MyUtils.class);
+	private static final Logger LOG = LoggerFactory.getLogger(MyUtils.class);
 
 	public int sum(List<Integer> list) {
 		LOG.trace("Méthode sum()");
