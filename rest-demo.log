@@ -1,0 +1,45 @@
+14:55:54.983 [main] [DEBUG] utils.MyUtils - emptyToNull 
+14:56:56.156 [main] [DEBUG] utils.MyUtils - emptyToNull 
+14:59:26.250 [main] [TRACE] utils.MyUtils - Méthode emptyToNull() 
+14:59:31.487 [main] [TRACE] utils.MyUtils - Méthode emptyToNull() 
+15:01:08.659 [main] [TRACE] utils.MyUtils - Méthode sum() 
+15:01:54.359 [main] [TRACE] utils.MyUtils - Méthode sum() 
+15:01:54.360 [main] [TRACE] utils.MyUtils - Méthode emptyToNull() 
+15:01:54.361 [main] [TRACE] utils.MyUtils - Méthode emptyToNull() 
+15:02:53.448 [main] [TRACE] utils.MyUtils - Méthode sum() 
+15:02:53.450 [main] [TRACE] utils.MyUtils - Méthode emptyToNull() 
+15:02:53.454 [main] [INFO ] utils.MyUtils - NULL 
+15:02:53.455 [main] [TRACE] utils.MyUtils - Méthode emptyToNull() 
+15:02:53.455 [main] [INFO ] utils.MyUtils - NOT NULLBonjour 
+15:03:20.083 [main] [TRACE] utils.MyUtils - Méthode sum() 
+15:03:20.085 [main] [TRACE] utils.MyUtils - Méthode emptyToNull() 
+15:03:20.086 [main] [INFO ] utils.MyUtils - NULL 
+15:03:20.087 [main] [TRACE] utils.MyUtils - Méthode emptyToNull() 
+15:03:20.088 [main] [INFO ] utils.MyUtils - NOT NULL. s = Bonjour 
+15:04:52.024 [main] [TRACE] utils.MyUtils - Méthode sum() 
+15:04:52.026 [main] [TRACE] utils.MyUtils - Méthode emptyToNull() 
+15:04:52.026 [main] [INFO ] utils.MyUtils - NULL 
+15:04:52.027 [main] [TRACE] utils.MyUtils - Méthode emptyToNull() 
+15:04:52.027 [main] [INFO ] utils.MyUtils - NOT NULL. s = Bonjour 
+15:04:52.027 [main] [TRACE] utils.MyUtils - Méthode filterEvenNumbers() 
+15:04:52.027 [main] [TRACE] utils.MyUtils - Méthode transformSquarePlusPointFive() 
+15:05:57.151 [main] [TRACE] utils.MyUtils - Méthode sum() 
+15:05:57.152 [main] [TRACE] utils.MyUtils - Méthode emptyToNull() 
+15:05:57.153 [main] [INFO ] utils.MyUtils - NULL 
+15:05:57.153 [main] [TRACE] utils.MyUtils - Méthode emptyToNull() 
+15:05:57.153 [main] [INFO ] utils.MyUtils - NOT NULL. s = Bonjour 
+15:05:57.154 [main] [TRACE] utils.MyUtils - Méthode filterEvenNumbers() 
+15:05:57.154 [main] [TRACE] utils.MyUtils - Méthode transformSquarePlusPointFive() 
+15:05:57.155 [main] [TRACE] utils.MyUtils - Index 1 = 1.5 
+15:05:57.156 [main] [TRACE] utils.MyUtils - Index 2 = 4.5 
+15:05:57.160 [main] [TRACE] utils.MyUtils - Index 3 = 9.5 
+15:06:14.356 [main] [TRACE] utils.MyUtils - Méthode sum() 
+15:06:14.358 [main] [TRACE] utils.MyUtils - Méthode emptyToNull() 
+15:06:14.359 [main] [INFO ] utils.MyUtils - NULL 
+15:06:14.359 [main] [TRACE] utils.MyUtils - Méthode emptyToNull() 
+15:06:14.359 [main] [INFO ] utils.MyUtils - NOT NULL. s = Bonjour 
+15:06:14.361 [main] [TRACE] utils.MyUtils - Méthode filterEvenNumbers() 
+15:06:14.361 [main] [TRACE] utils.MyUtils - Méthode transformSquarePlusPointFive() 
+15:06:14.363 [main] [INFO ] utils.MyUtils - Index 1 = 1.5 
+15:06:14.363 [main] [INFO ] utils.MyUtils - Index 2 = 4.5 
+15:06:14.367 [main] [INFO ] utils.MyUtils - Index 3 = 9.5 
